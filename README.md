@@ -46,4 +46,4 @@
 
 
 ・gifアニメーション
-  
+  ![ex]https://github.com/hu-mitu/week2/edit/master/exweek2.gif
