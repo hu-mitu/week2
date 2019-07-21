@@ -42,11 +42,11 @@
   
   　frame = cv2.resize(frame, (int(frame.shape[1]/4), int(frame.shape[0]/4))
    
-   　を引用した)
+   を引用した)
     
-    https://note.nkmk.me/python-opencv-camera-to-still-image/
+   https://note.nkmk.me/python-opencv-camera-to-still-image/
     
-    （このURLでは画像の保存を主としているが、最もわかりやすかったので、ベースの文章として引用させていただいた。)
+   (このURLでは画像の保存を主としているが、最もわかりやすかったので、ベースの文章として引用させていただいた。)
 
 
 ・gifアニメーション
